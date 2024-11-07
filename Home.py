@@ -215,3 +215,4 @@ st.markdown("""
         </div>
     </div>
 """, unsafe_allow_html=True)
+#The Certificate Trust Policy component in Apple Mac OS X before 10.6.8 does not perform CRL checking for Extended Validation (EV) certificates that lack OCSP URLs, which might allow man-in-the-middle attackers to spoof an SSL server via a revoked certificate.
