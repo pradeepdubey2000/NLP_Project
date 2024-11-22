@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Vulnerability Predictor - NLP Project 🛡️  
+# 🛡️ Cybersecurity Vulnerability Predictor - NLP Project🛡️ 
 
 Welcome to the **Cybersecurity Vulnerability Predictor** repository! This project leverages advanced machine learning and NLP techniques to predict and analyze cybersecurity vulnerabilities effectively. It features interactive visualizations, similarity searches, and a detailed exploration of CVE (Common Vulnerabilities and Exposures) data.  
 
